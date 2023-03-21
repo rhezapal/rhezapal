@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhezapal
-- 👀 I’m interested in Data Analytic, and Pharmacy Education
-- 🌱 I’m currently learning Model of Machine Learning
+- 👀 I’m interested in Data Engineer, Data Analytic, and Pharmacy Education
+- 🌱 I’m currently learning Role in Data Engineer and Model of Machine Learning
 - 💞️ I’m looking to collaborate on project related processing data
 - 📫 How to reach me https://www.linkedin.com/in/rheza-uyanto/
 
